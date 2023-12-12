@@ -1,4 +1,5 @@
-#### Anpy
+## Anpy
+---------
 
 **Anpy** is a python object oriented library that implements one main Ant Colonization Optimization (ACO) algorithm 
 and 2 variants to solve the 0/1 Knapsack Problem. This approach aims to model the actual behaviour of an Ant Colony
