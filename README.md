@@ -5,6 +5,7 @@ and 2 variants to solve the 0/1 Knapsack Problem. This approach aims to model th
 through the use of entities such as Ant, Object and Neighborhood.
 
 **ACO Algorithms:**
+
 _aco.py_ : Neighborhood is compiled to a new state every time an Ant selects an object. 
            Pheromone update and evaporation mechanisms are applied in order to avoid a
            rapid convergence to a locally optimal solution. Heuristics as μ are used
