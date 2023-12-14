@@ -30,4 +30,4 @@ heavily on the selections randomness due to their pheromone adjustments.
 Main ACO algorithm was based of this article:
 Schiff, K. (2013) _Ant Colony Optimization for the 0-1 Knapsack Problem_ .
 
-You can get download the PDF [here] (https://www.ejournals.eu/Czasopismo-Techniczne/2013/Automatyka-Zeszyt-3-AC-(11)-2013/art/3594)
+You can get download the PDF [here] (/https://www.ejournals.eu/Czasopismo-Techniczne/2013/Automatyka-Zeszyt-3-AC-(11)-2013/art/3594)
