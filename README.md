@@ -31,3 +31,11 @@ Main ACO algorithm was based of this article:
 Schiff, K. (2013) _Ant Colony Optimization for the 0-1 Knapsack Problem_ .
 
 You can download the PDF [here](https://www.ejournals.eu/Czasopismo-Techniczne/2013/Automatyka-Zeszyt-3-AC-(11)-2013/art/3594)
+
+To get this repository, it is recommended to use _git clone_ command:
+```bash
+git clone https://github.com/Daniels1610/Anpy.git
+```
+Or use the option "Download ZIP" on the repository's green button labeled as "code". 
+
+If you experience problems regarding filename size, employ this command **git config --global core.longpaths true** to allow more characters in files and directories names.
